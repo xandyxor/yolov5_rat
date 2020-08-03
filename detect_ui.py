@@ -152,7 +152,6 @@ class FaceDetectionWidget(QtWidgets.QWidget):
         #get_face(image_temp,faces)
         
         
-
         image_rgb=cv2.cvtColor(image_rgb, cv2.COLOR_RGB2BGR)
         
        
