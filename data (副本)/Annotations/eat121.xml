@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eat</folder>
+	<filename>vlc-00188.jpg</filename>
+	<path>/home/andy/DATA/0721_lab/eat/vlc-00188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>212</ymin>
+			<xmax>316</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

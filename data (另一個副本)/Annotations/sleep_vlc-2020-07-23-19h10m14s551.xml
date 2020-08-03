@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>vlc-2020-07-23-19h10m14s551.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>480</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>sleep</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>294.78325123152706</xmin>
+      <ymin>236.94581280788174</ymin>
+      <xmax>453.89655172413785</xmax>
+      <ymax>309.85221674876846</ymax>
+    </bndbox>
+  </object>
+</annotation>

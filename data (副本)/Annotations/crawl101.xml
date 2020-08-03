@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crawl</folder>
+	<filename>Image152.jpg</filename>
+	<path>/home/andy/DATA/RAT_lab/crawl/Image152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crawl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>221</ymin>
+			<xmax>543</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

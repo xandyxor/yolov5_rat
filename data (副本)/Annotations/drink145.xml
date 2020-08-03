@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drink</folder>
+	<filename>vlc-00093.jpg</filename>
+	<path>/home/andy/DATA/0721_lab/drink/vlc-00093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>89</ymin>
+			<xmax>571</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>
